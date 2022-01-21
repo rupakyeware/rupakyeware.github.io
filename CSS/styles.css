@@ -3,6 +3,7 @@ body {
   margin: 0px;
   font-family: "Caveat", cursive;
   font-family: "Ubuntu", sans-serif;
+  color: white;
 }
 
 .title-bar {
@@ -57,4 +58,8 @@ body {
 .title-link:hover {
   color: rgb(0, 63, 145);
   text-decoration: none;
+}
+
+.main-title {
+  font-size: 50px; /* 100% = 16px.  */
 }
