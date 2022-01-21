@@ -56,10 +56,22 @@ body {
 }
 
 .title-link:hover {
-  color: rgb(0, 63, 145);
+  color: rgb(0, 156, 247);
   text-decoration: none;
 }
 
 .main-title {
-  font-size: 50px; /* 100% = 16px.  */
+  font-size: 312.5%; /* 100% = 16px.  */
+  position: inline;
+  width: 22%;
+  margin-left: 19%;
+  margin-top: 17%;
+}
+
+.main-img {
+  position: absolute;
+  right: 50px;
+  top: 50px;
+  margin-top: 7%;
+  margin-right: 9%;
 }
