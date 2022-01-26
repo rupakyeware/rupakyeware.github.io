@@ -8,9 +8,16 @@ body {
 
 h1 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 3rem;
+  font-size: 5rem;
   font-weight: 600;
 }
+
+h2 {
+  font-size: 2rem;
+  color: rgb(6, 232, 240);
+  letter-spacing: 0.3rem;
+}
+
 .navbar {
   font-size: 1.2rem;
 }
