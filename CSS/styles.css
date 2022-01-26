@@ -6,6 +6,7 @@ body {
   color: white;
 }
 
+<<<<<<< HEAD
 h1 {
   font-family: 'Montserrat', sans-serif;
   font-size: 3rem;
@@ -17,4 +18,8 @@ h1 {
 
 .title-img {
   width: 90%
+=======
+.nav-font {
+  font-size: 1.4em;
+>>>>>>> 878cbf5b7a9bef7f7a1ac1cdbacba342a844e479
 }
