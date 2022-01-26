@@ -6,6 +6,15 @@ body {
   color: white;
 }
 
-.nav-font {
-  font-size: 2em;
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  font-weight: 600;
+}
+.navbar {
+  font-size: 1.2rem;
+}
+
+.title-img {
+  width: 90%
 }
