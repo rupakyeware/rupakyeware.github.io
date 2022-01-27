@@ -1,13 +1,25 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: "Ubuntu", sans-serif;
 }
 
 body {
   background-color: black;
-  margin: 0px;
   color: white;
+  font-family: "Ubuntu", sans-serif;
+}
+
+#title {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+
+
+#skills {
+  background-color: rgb(231, 231, 231);
+  margin: 0;
+  padding: 0;
 }
 
 h1 {
@@ -17,6 +29,13 @@ h1 {
 }
 
 h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  color: black;
+  letter-spacing: 0.3rem;
+}
+
+.text-hl {
   font-size: 2rem;
   color: rgb(6, 232, 240);
   letter-spacing: 0.3rem;
