@@ -9,13 +9,13 @@ body {
   font-family: "Ubuntu", sans-serif;
 }
 
-#title {
+.bg-black {
   background-color: black;
   margin: 0;
   padding: 0;
 }
 
-#skills {
+.bg-white {
   background-color: rgb(231, 231, 231);
   margin: 0;
   padding: 0;
@@ -39,11 +39,24 @@ h3 {
   color: black;
 }
 
-.h2-skills {
+hr {
+  color: white;
+  height: 1px;
+}
+
+.project-title {
+  color: white;
+}
+
+.h2-black {
   color: black;
 }
 
-.h2-videos {
+.h2-white {
+  color: white;
+}
+
+.h3-white {
   color: white;
 }
 
