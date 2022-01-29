@@ -58,6 +58,7 @@ hr {
 
 .h3-white {
   color: white;
+  font-weight: bold;
 }
 
 .text-hl {
@@ -72,4 +73,8 @@ hr {
 
 .title-img {
   width: 90%;
+}
+
+.btn {
+  margin: 0;
 }
