@@ -117,10 +117,15 @@ hr {
   cursor: pointer;
 }
 .btnContactSubmit {
-  width: 50%;
+  width: 100%;
   padding: 1.5%;
   color: #fff;
   background-color: #0062cc;
   border: none;
   cursor: pointer;
+  border-radius: 4px;
+}
+
+.btnContactSubmit:hover {
+  background-color: #009ccc;
 }
